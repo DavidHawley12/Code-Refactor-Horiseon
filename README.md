@@ -3,9 +3,9 @@
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
-* [Webpage Link](#Webpage Link)
+* [Webpage Link](#Webpage-Link)
 * [Credits](#Credits)
-* [License](License)
+* [License](#License)
 
 ### Description
 In this project I learned a great deal about HTML5's proper structuring and it's importance for when you work with other developers. I learned how crucial it is to leave clear and concise notes for any future or present developers that might work on the site. 
